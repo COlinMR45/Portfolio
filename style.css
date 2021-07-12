@@ -1,0 +1,30 @@
+h1 {text-align: center;
+color: white;
+}
+.button{
+    border: none;
+    color: white;
+    padding: 32px;
+    margin: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.center{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+  .vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+.background{ 
+     background-image:url(https://media3.giphy.com/media/sULKEgDMX8LcI/giphy.webp?cid=ecf05e47ta8fdetptllkmbh89f7qil6ngwdo0c0rj3vh3lid&rid=giphy.webp&ct=g);
+    background-size:100%;
+    max-width:100%;}
