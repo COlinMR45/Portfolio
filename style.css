@@ -1,6 +1,8 @@
 h1 {text-align: center;
 color: white;
 }
+h2{text-align:center;
+}
 .button{
     border: none;
     color: white;
@@ -28,3 +30,7 @@ color: white;
      background-image:url(https://media3.giphy.com/media/sULKEgDMX8LcI/giphy.webp?cid=ecf05e47ta8fdetptllkmbh89f7qil6ngwdo0c0rj3vh3lid&rid=giphy.webp&ct=g);
     background-size:100%;
     max-width:100%;}
+.p{text-align:center;
+font-family:'Times New Roman', Times, serif;
+font-size: 100px;
+}
