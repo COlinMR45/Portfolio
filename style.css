@@ -1,6 +1,9 @@
 h1 {text-align: center;
 color: black;
 }
+h2 {text-align: left;
+  color: black;
+  }
 .img{ 
   display: block;
   margin:auto;
@@ -42,3 +45,15 @@ font-size: 25px;
   font-family:'Times New Roman', Times, serif;
   font-size: 25px;
 }
+.p3{text-align:center;
+font-family: Arial, Helvetica, sans-serif;
+font-size:25px;
+color:white;}
+.Second_background{
+  background-image: url(https://i.imgur.com/BwkVzdb.jpg);
+  background-size:100%;
+  max-width:100%;
+  
+}
+.text-color{color:white;}
+.h2_1{color:white;}
