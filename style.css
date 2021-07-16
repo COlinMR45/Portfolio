@@ -7,9 +7,14 @@ h2 {text-align: left;
 .img{ 
   display: block;
   margin:auto;
-  max-width: 50px;
-  height:50px;
+  max-width: 25px;
+  max-height:25px;
 }
+.friends{ 
+  display: block;
+  margin:auto;
+  max-width: 25%;
+  max-height:25%;}
 .button{
     border: none;
     color: white;
@@ -52,9 +57,27 @@ color:white;}
 .Second_background{
   background-image: url(https://i.imgur.com/BwkVzdb.jpg);
   background-size:100%;
-  max-width:100%;
-  
-}
-.text-color{color:white;}
+  width:100%;}
 .h2_1{color:white;}
 .text2{color:white;}
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+ul{font-size:30px;
+font-family: fantasy;
+color:white;
+}
+.rock{text-align:left;
+font-size: 25px;
+}
+.image_me {
+  display: block;
+  margin-left:45%;
+  margin-right: 55%;
+  width: 50%;
+}
